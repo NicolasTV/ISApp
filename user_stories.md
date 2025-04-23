@@ -1,34 +1,33 @@
-1. Como usuario nuevo, quiero registrarme con mi correo y contraseña, para poder tener una cuenta en la plataforma.
+1. As a new user, I want to register with my email and password so that I can have an account on the platform.
 
-2. Como usuario autenticado, quiero subir una imagen con descripción y hashtags, para compartir contenido con otros usuarios.
+2. As an authenticated user, I want to upload an image with a description and hashtags so that I can share content with other users.
 
-3. Como usuario, quiero buscar imágenes por hashtags, para encontrar contenido relacionado a mis intereses.
+3. As a user, I want to search for images by hashtags so that I can find content related to my interests.
 
-4. Como usuario, quiero dar like a una imagen, para expresar que me gusta.
+4. As a user, I want to like an image so that I can express that I enjoy it.
 
-5. Como usuario, quiero comentar imágenes, para interactuar con otros usuarios.
+5. As a user, I want to comment on images so that I can interact with other users.
 
-6. Como usuario, quiero ver el perfil de otro usuario, para conocer más sobre sus publicaciones.
+6. As a user, I want to view another user's profile so that I can learn more about their posts.
 
-7. Como usuario, quiero ver mi propio perfil con mi actividad resumida (posts, likes), para tener un registro personal.
+7. As a user, I want to view my own profile with a summary of my activity (posts, likes) so that I can keep a personal record.
 
-8. Como usuario, quiero guardar imágenes en colecciones personales, para poder organizarlas por temas o proyectos que me interesan.
+8. As a user, I want to save images in personal collections so that I can organize them by themes or projects that interest me.
 
-9. Como usuario, quiero seguir a otros usuarios, para ver sus publicaciones en un feed personalizado y descubrir contenido afín.
+9. As a user, I want to follow other users so that I can see their posts in a personalized feed and discover related content.
 
-10. Como usuario, quiero recibir notificaciones cuando alguien le dé like o comente una de mis imágenes, para mantenerme al tanto de la interacción con mi contenido.
+10. As a user, I want to receive notifications when someone likes or comments on one of my images so that I can stay updated on interactions with my content.
 
-11. Como usuario, quiero editar la descripción o hashtags de una imagen que subí, para corregir errores o actualizar información.
+11. As a user, I want to edit the description or hashtags of an image I uploaded so that I can fix errors or update the information.
 
-12. Como usuario, quiero poder reportar imágenes que violen las normas de la comunidad, para mantener la plataforma segura y respetuosa.
+12. As a user, I want to report images that violate community guidelines so that I can help keep the platform safe and respectful.
 
-13. Como usuario, quiero marcar imágenes como favoritas, para acceder rápidamente a las que me gustaron sin necesidad de buscarlas.
+13. As a user, I want to mark images as favorites so that I can quickly access the ones I liked without searching for them again.
 
-14. Como usuario, quiero ver estadísticas básicas de mis publicaciones, como número de vistas, likes y comentarios, para entender qué tipo de contenido genera más interacción.
+14. As a user, I want to see basic statistics for my posts, such as number of views, likes, and comments so that I can understand which content generates more engagement.
 
-15. Como usuario, quiero filtrar las imágenes por más de un hashtag, para encontrar contenido muy específico que cumpla con varios criterios.
+15. As a user, I want to filter images by more than one hashtag so that I can find highly specific content that matches multiple criteria.
 
-16. Como usuario nuevo, quiero ver una sección con publicaciones destacadas o populares, para explorar contenido atractivo mientras empiezo a seguir gente.
+16. As a new user, I want to see a section with featured or popular posts so that I can explore engaging content while I start following people.
 
-17. Como usuario, quiero recibir sugerencias de hashtags al subir una imagen, basadas en los más usados o relacionados con mi descripción, para aumentar el alcance de mis publicaciones.
-
+17. As a user, I want to receive hashtag suggestions when uploading an image, based on the most used or those related to my description so that I can increase the reach of my posts.
