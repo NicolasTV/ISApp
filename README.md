@@ -1,5 +1,5 @@
 # ISApp
-Image Sharing Application
+Image Sharing Application created by Nicolás Torres
 
 This web application is a simplified image-sharing social platform inspired by services like Pinterest. Users can sign up, upload photos with descriptions and hashtags, like and comment on others posts, and explore content through hashtag-based filtering.
 
